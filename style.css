@@ -1,0 +1,111 @@
+body{
+    background-color: #CCCCFF;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+.heading img{
+    width: 100px;
+    box-shadow: 5px 5px 18px #6a7981;
+    height: 100px;
+}
+
+.heading{
+    font-size: 50px;
+    color: black;
+    background-color: thistle;
+    
+}
+
+#camera, #result{
+    height: 400px;
+    width: 300px;
+    border: 2px solid #bbc2cc;
+
+}
+
+.main_div{
+   display: block;
+    border: 2px solid #bbc2cc;
+    width: 50%;
+    background-color:#CCCCFF
+}
+.main_div label{
+    width: 300px;
+    box-shadow: 5px 5px 18px #6a7981;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+
+
+.main_div button{
+    width: 300px;
+    box-shadow: 5px 5px 18px #6a7981;
+    font-size: 30px;
+    
+}
+
+.footer img{
+    width: 100px;
+    
+}
+
+.footer{
+    margin-top: 10px;
+    height: 500px;
+}
+#object{
+    margin-top: 100px;
+    width: 60px;
+    height: 100px;
+    
+    border: 2px solid white;
+    
+}
+
+.footer h4{
+    background-color: #CCCCFF;
+    border-radius: 20px;
+    padding:10px;
+    box-shadow: 5px 5px 18px #6a7981;
+    width: 50%;
+}
+
+#copyright_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #CCCCFF;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+
+}
+
+.main_div div{
+    box-shadow: 5px 5px 18px #6a7981;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#result{
+    box-shadow: 5px 5px 18px #6a7981;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    width: 400px;
+}
+
+.results{
+    display: inline-block;
+}
+
+.footer span{
+    padding: 5px;
+    margin-top:10px;
+    
+    width: 60px;
+    height: 100px;
+    
+    border: 2px solid white;
+}
